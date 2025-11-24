@@ -100,6 +100,7 @@ One command (concurrent):
 npm run dev
 
 This starts:
+<img width="1917" height="918" alt="image" src="https://github.com/user-attachments/assets/3cf28d79-4bef-443b-9f89-7a7460ef8d7c" />
 
 Backend: server/index.js on port 5000
 
@@ -131,6 +132,7 @@ The backend reads Razorpay keys from:
 Environment variables (RAZORPAY_KEY_ID, RAZORPAY_KEY_SECRET), and/or
 
 DB Settings (model: SiteSetting → razorpay block)
+<img width="1911" height="933" alt="image" src="https://github.com/user-attachments/assets/0a031608-299b-45ac-be26-3254bbd87957" />
 
 Relevant files:
 
